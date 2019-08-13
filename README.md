@@ -1,4 +1,4 @@
-# test-01-cs-to-java
+Тестове завдання. Переписати C# код на Java.
 
 It is a Java 8 project.
 
